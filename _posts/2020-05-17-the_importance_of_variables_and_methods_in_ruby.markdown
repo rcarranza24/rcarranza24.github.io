@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The importance of variables and methods in Ruby"
-date:       2020-05-17 21:19:17 +0000
+date:       2020-05-17 17:19:18 -0400
 permalink:  the_importance_of_variables_and_methods_in_ruby
 ---
 
